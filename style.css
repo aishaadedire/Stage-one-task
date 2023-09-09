@@ -1,0 +1,16 @@
+html {
+    background-color: chocolate;
+    text-align: center;
+}
+.maincontent{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+
+    
+    .image{
+        width: 20%;
+        border-radius: 200px;
+    }
+}
